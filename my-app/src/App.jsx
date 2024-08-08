@@ -32,6 +32,7 @@ function App() {
         Carlos Torres - Cambio para tarea 3
         Ignacio Delgadillo - Cambio tarea
         Robert Collins - cambio tarea 3 
+	  Jose Rojas   - cambio tarea 3
       </p>
     </>
   )
