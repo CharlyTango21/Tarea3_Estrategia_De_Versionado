@@ -30,7 +30,8 @@ function App() {
       </p>
       <p className="read-the-docs">
         Carlos Torres - Cambio para tarea 3
-        Ignacio Delgadillo - Cambio tarea 
+        Ignacio Delgadillo - Cambio tarea
+        Robert Collins - cambio tarea 3 
       </p>
     </>
   )
